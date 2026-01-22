@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -78,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
