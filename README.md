@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,12 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
