@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [2644-find-the-maximum-divisibility-score](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2678-number-of-senior-citizens](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
