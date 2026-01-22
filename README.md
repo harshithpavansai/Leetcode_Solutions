@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -160,6 +162,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [2678-number-of-senior-citizens](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2678-number-of-senior-citizens) |
 ## Quickselect
 |  |
