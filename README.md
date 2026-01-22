@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -128,4 +131,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
