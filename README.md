@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [3477-fruits-into-baskets-ii](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [3477-fruits-into-baskets-ii](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,4 +86,16 @@
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
