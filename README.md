@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
