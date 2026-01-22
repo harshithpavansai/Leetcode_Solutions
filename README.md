@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2678-number-of-senior-citizens](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2678-number-of-senior-citizens) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
