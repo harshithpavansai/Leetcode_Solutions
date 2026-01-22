@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
 | [2974-minimum-number-game](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
 | [3151-special-array-i](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Union-Find
@@ -99,6 +101,7 @@
 ## Counting
 |  |
 | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
