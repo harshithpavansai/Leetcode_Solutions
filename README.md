@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
@@ -143,6 +146,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2974-minimum-number-game](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
@@ -157,4 +161,8 @@
 |  |
 | ------- |
 | [2678-number-of-senior-citizens](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2678-number-of-senior-citizens) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
