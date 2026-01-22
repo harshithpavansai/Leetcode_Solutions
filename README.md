@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3637-trionic-array-i](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sorting
