@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [3638-maximum-balanced-shipments](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3638-maximum-balanced-shipments) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [3638-maximum-balanced-shipments](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3638-maximum-balanced-shipments) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,16 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3638-maximum-balanced-shipments) |
+## Greedy
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3638-maximum-balanced-shipments) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3638-maximum-balanced-shipments) |
 <!---LeetCode Topics End-->
