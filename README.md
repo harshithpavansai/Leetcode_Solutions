@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3638-maximum-balanced-shipments](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3638-maximum-balanced-shipments) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -68,4 +71,12 @@
 |  |
 | ------- |
 | [3638-maximum-balanced-shipments](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3638-maximum-balanced-shipments) |
+## Counting
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
