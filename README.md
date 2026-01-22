@@ -170,4 +170,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
