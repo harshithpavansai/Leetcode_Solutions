@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [3151-special-array-i](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
