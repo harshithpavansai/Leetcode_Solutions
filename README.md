@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/0136-single-number) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harshithpavansai/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
